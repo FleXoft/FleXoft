@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg)
+<center>
+<a target="_blank" rel="noopener noreferrer" href="/FleXoft/FleXoft/blob/main/github-metrics.svg"><img src="/FleXoft/FleXoft/raw/main/github-metrics.svg" alt="Metrics" style="max-width: 100%;"></a>
+</center>
 
 <!--
 **FleXoft/FleXoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
