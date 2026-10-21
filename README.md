@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there, 👋
 
 <center>
-
 ![Metrics](/github-metrics.svg)
-
 </center>
 
 <!--
